@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @henrYc0des
+- 👋 Hi, I’m @henrYc0des <----------------
 - 👀 I’m interested in coding Python terminal games
 - 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on valorant duo que
+- 💞️ I’m looking to collaborate valorant duo que
 - 📫 How to reach me acc91021@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: you that read wrong
